@@ -9,8 +9,8 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 BCA Student | Passionate Python & C++ Learner
-- 🌱 Currently learning: **Python, C++, Git, HTML & CSS**
+- 🎓 BCA Student | Passionate Programmer
+- 🌱 Currently learning: **Python, Git, HTML, CSS, JS**
 - 🚀 Building mini projects to sharpen problem-solving skills
 - 📬 **Email:** *gauravbisht059@gmail.com*
 
