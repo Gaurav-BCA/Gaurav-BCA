@@ -46,12 +46,6 @@
 
 ## 📫 Contact Me
 
-I am currently focusing on building **small projects while learning web development.**
-
----
-
-⭐ *Always learning and improving.*
-
 <p align="center">
   <a href="mailto:gauravbisht059@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-gauravbisht059%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -61,3 +55,9 @@ I am currently focusing on building **small projects while learning web developm
 ---
 
 ## 🚀 Current Learning Journey
+
+I am currently focusing on building **small projects while learning web development.**
+
+---
+
+⭐ *Always learning and improving.*
