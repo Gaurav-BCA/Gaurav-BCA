@@ -39,7 +39,7 @@
 ## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-bca&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-bca&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
@@ -61,5 +61,5 @@ I am currently focusing on building **small projects while learning web developm
 ---
 
 <p align="center">
-⭐ <b>Always learning and improving.</b>
+  <b>Always learning and improving.</b>⭐ 
 </p>
