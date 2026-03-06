@@ -60,4 +60,6 @@ I am currently focusing on building **small projects while learning web developm
 
 ---
 
-⭐ *Always learning and improving.*
+<p align="center">
+⭐ <b>Always learning and improving.</b>
+</p>
